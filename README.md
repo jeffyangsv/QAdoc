@@ -10,7 +10,7 @@
 
 [小白上手教程WIN](https://github.com/jeffyangsv/QAdoc/blob/main/Documents/install_for_new_to_coding.md)
 
-[部署]()
+[部署](/Documents/install.md)
 
 [windows 安装]()
 
